@@ -84,7 +84,7 @@ int main() {
 
  // CALCULOS 02
 
-  DensidadePopulacional01 = Populacao02 / Area02;
+  DensidadePopulacional02 = Populacao02 / Area02;
   PIBperCapita02 = (PIB02 * 1000000000) / Populacao02;
   SuperPoder02 = Populacao02 + Area02 + PIB02 + DensidadePopulacional02;
 
